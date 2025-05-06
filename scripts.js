@@ -1,5 +1,6 @@
 const API_KEY = '5cc26d54c18179b92da8e9c7dac00424';
 const MOVIE_ENDPOINTS = [
+  'https://moviesapi.club/movie/',
   'https://vidlink.pro/movie/',
   'https://vidsrc.dev/embed/movie/',
   'https://111movies.com/movie/',
@@ -8,9 +9,9 @@ const MOVIE_ENDPOINTS = [
   'https://vidsrc.cc/v2/embed/movie/',
   'https://vidsrc.xyz/embed/movie/',
   'https://www.2embed.cc/embed/',
-  'https://moviesapi.club/movie/'
 ]; // Additional movie endpoints
 const SERIES_ENDPOINTS = [
+  'https://moviesapi.club/tv/',
   'https://vidsrc.vip/embed/tv/',
   'https://111movies.com/tv/',
   'https://vidlink.pro/tv/',
