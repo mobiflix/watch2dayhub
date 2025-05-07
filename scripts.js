@@ -8,7 +8,7 @@ const MOVIE_ENDPOINTS = [
   'https://vidsrc.cc/v2/embed/movie/',
   'https://vidsrc.xyz/embed/movie/',
   'https://www.2embed.cc/embed/',
-  'https://moviesapi.club/movie/',
+  'https://moviesapi.club/movie/'
 ]; // Additional movie endpoints
 const SERIES_ENDPOINTS = [
   'https://vidlink.pro/tv/',
@@ -20,7 +20,7 @@ const SERIES_ENDPOINTS = [
   'https://vidsrc.cc/v2/embed/tv/',
   'https://vidsrc.xyz/embed/tv/',
   'https://www.2embed.cc/embedtvfull/'
-  'https://moviesapi.club/tv/',
+  'https://moviesapi.club/tv/'
 ];
 
 const movieGrid = document.getElementById('movie-grid');
